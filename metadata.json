@@ -1,0 +1,6 @@
+{
+  "name": "InvEx",
+  "description": "InvEx Classroom and Exam Management for Teachers: duty tracking, student attendance, restroom passes, admit card verification, and circulars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

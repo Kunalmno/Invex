@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="30dp"
+    android:height="30dp"
+    android:viewportWidth="30"
+    android:viewportHeight="30">
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M27.1032 27.1406V30H2.81256V27.1406H5.67193V4.28436H7.09693V27.1406H27.1032Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M8.5313 1.42499H9.9563V2.85936H8.5313V1.42499Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M9.95632 0H19.9594V1.425H9.95632V0Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M17.1001 24.2812V25.7156H8.53132V5.70938H9.95632V10.0031H14.2407V4.28438H11.3813V2.85938H18.5251V4.28438H15.6751V10.0031H19.9594V11.4281H15.6751V17.1375H17.1001V18.5719H15.6751V24.2812H17.1001ZM14.2407 11.4281H9.95632V17.1375H14.2407V11.4281ZM14.2407 18.5719H9.95632V24.2812H14.2407V18.5719Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M18.5251 4.28436H19.9594V5.70936H18.5251V4.28436Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M19.9594 1.42499H21.3844V2.85936H19.9594V1.42499Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M21.3844 2.85938H22.8094V4.28438H21.3844V2.85938Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M8.53096 2.85938H7.10596V4.28438H8.53096V2.85938Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M11.3904 4.28436H9.95599V5.70936H11.3904V4.28436Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M9.95597 5.70935H8.53098V8.56873H9.95597V5.70935Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M2.81235 27.1406V30H27.103V27.1406H24.2436V4.28436H22.8186V27.1406H2.81235Z" />
+    <path
+        android:fillColor="#F7F9F7"
+        android:pathData="M12.8154 24.2812V25.7156H21.3841V5.70938H19.9591V10.0031H15.6747V4.28438H18.5341V2.85938H11.3904V4.28438H14.2404V10.0031H9.95599V11.4281H14.2404V17.1375H12.8154V18.5719H14.2404V24.2812H12.8154ZM15.6747 11.4281H19.9591V17.1375H15.6747V11.4281ZM15.6747 18.5719H19.9591V24.2812H15.6747V18.5719Z" />
+</vector>
