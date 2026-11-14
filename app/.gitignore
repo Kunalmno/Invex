@@ -1,25 +1,21 @@
-
 *.apk
 *.apks
 *.aab
 .output.json
-
-
 *.dex
-
-
 *.class
-
-
 bin/
 gen/
 out/
 .gradle/
 build/
-
+public/
 
 local.properties
+metadata.json
+.env.example
 
+src.zip
 
 *.log
 

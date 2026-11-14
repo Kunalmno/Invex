@@ -1,0 +1,9 @@
+# Copy this file and rename it to local.properties
+# Replace the placeholder values with your actual credentials
+
+# Path to your local Android SDK (Android Studio generates this automatically)
+# sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
+
+# Supabase Credentials
+SUPABASE_URL=your_supabase_url_here
+SUPABASE_ANON_KEY=your_supabase_anon_key_here
